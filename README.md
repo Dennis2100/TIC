@@ -1,4 +1,4 @@
-# TIC
+TIC
 ===
 
-**(T)ruth (I)n (C)hrist
+**(T)ruth (I)n (C)hrist**
